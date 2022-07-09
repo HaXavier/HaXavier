@@ -32,5 +32,9 @@ bem como implementá-las em meus projetos.:sunglasses:<br>
 ---
 
 
+![snake gif](https://github.com/HaXavier/HaXavier/blob/output/github-contribution-grid-snake.gif)
+
+
+
 
 
