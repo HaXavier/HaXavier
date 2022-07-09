@@ -23,7 +23,6 @@ bem como implementá-las em meus projetos.:sunglasses:<br>
 
 <div>
 <h3>Fale Comigo: <h3/>
-<h3 align="right">s<h3/>
 <a href="https://linkedin.com/in/henrique-alves-xavier-361709221" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="henrique-alves-xavier-361709221"  height="40" width="40"/></a>
 <a href="https://instagram.com/henrique.a_xavier" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/instagram-new.png" height="43" width="43" /></a>
 <a href="https://discord.gg/RickX4V13R#3234" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/discord-new-logo.png" alt="RickX4V13R#3234"  height="43" width="43"/></a>
