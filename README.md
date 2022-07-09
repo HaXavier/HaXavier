@@ -15,7 +15,7 @@
 • Atualmente Aprendendo Ruby. :star_struck:<br>
 • Estou aprendendo JavaScript também. :muscle:<br>
 • Adoro explorar e aprender novas habilidades,<br> 
-<p>bem como implementá-las em meus projetos.:sunglasses:<p/><br>
+bem como implementá-las em meus projetos.:sunglasses:<br>
 • O mais importante é que gosto do que faço. 😉<br>
 <div/>
 
