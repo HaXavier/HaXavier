@@ -57,13 +57,13 @@
 <h2 align="center">👨‍💻 Repositórios 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/HaXavier/HTML" title="Data Structures"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=HTML&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/HaXavier/JavaScript" title="Chat & Fresh"><img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=JavaScript&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/HaXavier/HTML" title="Data Structures"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=HTML&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/HaXavier/JavaScript" title="Chat & Fresh"><img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=JavaScript&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/HaXavier/Java" title="Expense Tracker"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=Java&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/HaXavier/Ruby" title="Copy&Move Forgery Detection With DCT"><img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=Ruby&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/HaXavier/Java" title="Expense Tracker"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=Java&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/HaXavier/Ruby" title="Copy&Move Forgery Detection With DCT"><img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=Ruby&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br>
