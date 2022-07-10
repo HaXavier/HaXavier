@@ -1,7 +1,9 @@
-
+<div align="center">
+<img src="https://i.pinimg.com/originals/9a/58/c3/9a58c343701abc80f7e1d5ec4142ab4d.gif" width="600" height="200"/>
+</div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+Me+Chamo+Henrique!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=7E2FB1FF&center=true&vCenter=true&lines=Hello+World!+%F0%9F%91%8B;Me+chamo+Henrique!">
   </a>
 </h1>
 
@@ -42,10 +44,10 @@
 
 <div align="center">
   <a href="https://github.com/HaXavier">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaXavier&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaXavier&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaXavier&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaXavier&layout=compact&langs_count=7&theme=radical"/>
   <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=HaXavier&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=HaXavier&theme=radical&bg_color=20232a&hide_border=true" width="100%"/>
   <a/>
 </div>
 
@@ -58,13 +60,13 @@
 <h2 align="center">👨‍💻 Repositórios 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/HaXavier/HTML" title="Data Structures"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=HTML&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/HaXavier/JavaScript" title="Chat & Fresh"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=JavaScript&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/HaXavier/HTML" title="Data Structures"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=HTML&theme=radical&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/HaXavier/JavaScript" title="Chat & Fresh"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=JavaScript&theme=radical&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/HaXavier/Java" title="Expense Tracker"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=Java&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/HaXavier/Ruby" title="Copy&Move Forgery Detection With DCT"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=Ruby&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/HaXavier/Java" title="Expense Tracker"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=Java&theme=radical&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/HaXavier/Ruby" title="Copy&Move Forgery Detection With DCT"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=Ruby&theme=radical&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br>
