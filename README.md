@@ -10,13 +10,13 @@
 ---
 
 <p align="center">
-  Hello, I'm Henrique, Future Programmer, Learner 👨‍💻 &  Gamer 🦸‍♂️ Brazilian guy 🇧🇷
+  • Hello, I'm Henrique, Future Programmer, Learner 👨‍💻 &  Gamer 🦸‍♂️ Brazilian guy 🇧🇷 •
   <br>
   <br>
   🎓 Studying at the University Positivo -<a href="https://www.up.edu.br/"> UP.</a>
   <br>
   💻I love exploring and learning new skills,<br> 
-  :sunglasses:as well as implementing them in new projects.
+  as well as implementing them in new projects.
   <br>
   🧑‍💼The most important thing is that I like what I do.
   <br>
