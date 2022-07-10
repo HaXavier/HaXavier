@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  • Hello, I'm Henrique, Future Programmer, Learner 👨‍💻 &  Gamer 🦸‍♂️ Brazilian guy 🇧🇷 •
+  • Hello, I'm Henrique, Learner 👨‍💻 &  Gamer 🦸‍♂️ Brazilian guy 🇧🇷 •
   <br>
   <br>
   🎓 Studying at the University Positivo -<a href="https://www.up.edu.br/"> UP.</a>
