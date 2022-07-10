@@ -20,13 +20,15 @@
   <br>
   🧑‍💼The most important thing is that I like what I do.
   <br>
+  <img src="https://img.icons8.com/fluency/344/discord-logo.png" width="20" height="20"/> Want to chat, call me on Discord: <strong>RickX4V13R#3234<strong/>
+  <br>
 </p>
 
 <div align="center">
 <a href="https://linkedin.com/in/henrique-alves-xavier-361709221"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="henrique-alves-xavier-361709221" target="_blank"/></a>
 <a href="https://instagram.com/henrique.a_xavier"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"" /></a>
-<a href="https://discord.gg/RickX4V13R#3234" target="blank"><img align="center" <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="RickX4V13R#3234" target="_blank"/></a>
 <a href="mailto:henriquexa08212@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+<a href="https://steamcommunity.com/profiles/76561198399329840" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-%23333?style=for-the-badge&logo=steam&logoColor=white" target="_blank"/></a>
 <div/>
 
 ---
