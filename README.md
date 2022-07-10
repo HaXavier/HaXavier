@@ -46,34 +46,11 @@
   <a href="https://github.com/HaXavier">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaXavier&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaXavier&layout=compact&langs_count=7&theme=radical"/>
-  <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=HaXavier&theme=radical&bg_color=20232a&hide_border=true" width="100%"/>
   <a/>
 </div>
-
----
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/HaXavier/HaXavier/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/HaXavier/HaXavier/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/HaXavier/HTML" title="Data Structures"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=HTML&theme=radical&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/HaXavier/JavaScript" title="Chat & Fresh"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=JavaScript&theme=radical&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/HaXavier/Java" title="Expense Tracker"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=Java&theme=radical&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/HaXavier/Ruby" title="Copy&Move Forgery Detection With DCT"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=Ruby&theme=radical&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<br><br><br><br><br><br>
-
----
-
-<h4 align="center">
-  <a href="https://github.com/HaXavier?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 
