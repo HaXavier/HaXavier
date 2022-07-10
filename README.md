@@ -3,22 +3,22 @@
 </div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=7E2FB1FF&center=true&vCenter=true&lines=Hello+World!+%F0%9F%91%8B;Me+chamo+Henrique!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=7E2FB1FF&center=true&vCenter=true&lines=Hello+World!!+%F0%9F%91%8B;Myself+Henrique+Xavier!">
   </a>
 </h1>
 
 ---
 
 <p align="center">
-  Olá, Sou Henrique, Futuro Programador,  Estudante 👨‍💻 &  Gamer 🦸‍♂️ Brazilian guy 🇧🇷
+  Hello, I'm Henrique, Future Programmer, Learner 👨‍💻 &  Gamer 🦸‍♂️ Brazilian guy 🇧🇷
   <br>
   <br>
-  🎓 Cursando na Universidade Positivo -<a href="https://www.up.edu.br/"> UP.</a>
+  🎓 Studying at the University Positivo -<a href="https://www.up.edu.br/"> UP.</a>
   <br>
-  💻Adoro explorar e aprender novas habilidades,<br> 
-  :sunglasses:bem como implementá-las em novos projetos.
+  💻I love exploring and learning new skills,<br> 
+  :sunglasses:as well as implementing them in new projects.
   <br>
-  🧑‍💼O mais importante é que gosto do que faço.
+  🧑‍💼The most important thing is that I like what I do.
   <br>
 </p>
 
@@ -31,7 +31,7 @@
 
 ---
 
-<h2 align="center">💻 Linguagens-Frameworks-Softawares 🛠</h2>
+<h2 align="center">💻 Languages-Frameworks-Tools 🛠</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -57,7 +57,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 Repositórios 👨‍💻</h2>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="right" href="https://github.com/HaXavier/HTML" title="Data Structures"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=HaXavier&repo=HTML&theme=radical&border_color=61dafb&border_radius=10"></a>
@@ -74,6 +74,6 @@
 ---
 
 <h4 align="center">
-  <a href="https://github.com/HaXavier?tab=repositories" title="Show Repositories">🔎 Mostrar Mais 🔍</a>
+  <a href="https://github.com/HaXavier?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
