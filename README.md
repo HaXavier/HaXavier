@@ -20,7 +20,7 @@
   <br>
   🧑‍💼The most important thing is that I like what I do.
   <br>
-  <img src="https://img.icons8.com/fluency/344/discord-logo.png" width="20" height="20"/> Want to chat, call me on Discord: <strong>RickX4V13R#3234<strong/>
+  <img src="https://img.icons8.com/fluency/344/discord-logo.png" width="20" height="20"/> Want to chat, call me on Discord: <strong>RickX4V13R#3234.<strong/>
   <br>
 </p>
 
