@@ -1,4 +1,4 @@
-<img align="center" src="https://i.pinimg.com/originals/a8/e9/c4/a8e9c4e80dc3570aabce75411a1f3e1f.gif"/>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+Me+Chamo+Henrique!;&center=true&size=30">
